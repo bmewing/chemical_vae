@@ -5,17 +5,14 @@ channels:
 
 dependencies:
   - keras=2.0.6
-  - tensorflow
+  - tensorflow=2.5.0
   - h5py
   - hdf5
   - pandas
-  - python=3
+  - python=3.8.5
   - scikit-learn
   - boost
   - rdkit
   - yaml
   - numpy
   - matplotlib
-
-
-
